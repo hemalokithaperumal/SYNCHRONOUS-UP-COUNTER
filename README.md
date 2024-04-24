@@ -56,12 +56,12 @@ endmodule
 
 **RTL LOGIC UP COUNTER**
 
-
-![alt text](rtl.png)
+![alt text](rtl1.png)
 
 **TIMING DIAGRAM FOR IP COUNTER**
 
-![alt text](time.png)
+![alt text](time1.png)
+
 
  **Truth Table**
 
